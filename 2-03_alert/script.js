@@ -1,3 +1,3 @@
 'use strict';
 
-window.alert('アプリ提携が完了しました。');
+window.alert('アプリ連携が完了しました。')
