@@ -1,3 +1,4 @@
 'use strict';
 
-document.getElementById('cheice').textContent = new Date();
+// console.log(document.getElementById('choice'));
+document.getElementById('choice').textContent = new Date();
